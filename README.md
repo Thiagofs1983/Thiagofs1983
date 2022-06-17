@@ -14,6 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagofs1983&layout=compact&theme=radical)
 
+### Portfólio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thiagofs1983&repo=Thiagofs1983.github.io&theme=radical)](https://thiagofs1983.github.io/github-page/)
 
 ### Redes Sociais
