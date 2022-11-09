@@ -1,6 +1,6 @@
 ## Olá, meu nome é Thiago 👋
 
-### Sou estudante de Desenvolvimento Web Full Stack na Trybe
+### Desenvolvedor Web Full Stack
 
 ### Skills
 
